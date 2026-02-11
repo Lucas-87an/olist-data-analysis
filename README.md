@@ -108,7 +108,7 @@ Com base nos dados temporais dos pedidos, os atrasos foram analisados consideran
 - **Categoria mais vendida (volume):** casa_mesa_banho  
   ➜ +11 mil itens
 - **Categorias com alto volume e baixo faturamento:**  
-  Destaque para *telefonia*, com alto volume de vendas e ticket médio reduzido
+  Destaque para *telefonia*, com alto volume de vendas e um faturamento com menos de R$ 500.000,00 reais
 - **Produtos mais vendidos vs. mais lucrativos:**  
   Análise comparativa entre volume e faturamento por produto
 
