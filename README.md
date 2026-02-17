@@ -121,6 +121,72 @@ Com base nos dados temporais dos pedidos, os atrasos foram analisados consideran
 - **Evolução temporal:** crescimento significativo ao longo de 2017
 
 ---
+# 📌 Recomendações Estratégicas
+
+Com base nas análises realizadas ao longo do projeto, foram identificadas oportunidades de melhoria operacional e estratégica:
+
+## 🚚 Logística e Entregas
+
+**Problema identificado:**  
+Alto volume de pedidos atrasados em estados com maior concentração de vendas, especialmente São Paulo. O principal gargalo está no tempo de preparação para envio e na etapa final de entrega.
+
+**Recomendações:**
+• Revisar os SLAs estimados para regiões com alto volume logístico  
+• Implementar centros de distribuição regionais para reduzir tempo de despacho  
+• Criar indicadores de performance logística por estado  
+• Monitorar tempo médio de preparação por vendedor  
+• Aplicar priorização automática para pedidos com maior risco de atraso  
+
+---
+
+## 👥 Clientes
+
+**Problema identificado:**  
+Baixa taxa de recorrência (aproximadamente 3% dos clientes são recorrentes).
+
+**Recomendações:**
+• Criar campanhas de retenção baseadas em comportamento de compra  
+• Desenvolver programa de fidelidade ou benefícios progressivos  
+• Aplicar segmentação de clientes por ticket médio e frequência  
+• Implementar campanhas automatizadas para recompra  
+
+---
+
+## 📦 Produtos e Categorias
+
+**Problema identificado:**  
+Categorias com alto volume de vendas, mas baixo faturamento, indicando ticket médio reduzido.
+
+**Recomendações:**
+• Estratégia de cross-sell e upsell para aumentar ticket médio  
+• Revisão de margem e precificação  
+• Identificar produtos com alta saída e baixo lucro  
+• Criar kits promocionais para aumentar valor agregado  
+
+---
+
+## 💰 Receita e Faturamento
+
+**Problema identificado:**  
+Forte sazonalidade, com pico significativo em novembro (Black Friday).
+
+**Recomendações:**
+• Planejamento antecipado de estoque para períodos sazonais  
+• Campanhas pré-Black Friday para diluir demanda  
+• Estratégias de retenção pós-pico para manter crescimento  
+• Monitoramento mensal do ticket médio e margem por categoria  
+
+---
+
+## 🎯 Conclusão Estratégica
+
+A análise demonstra que, embora o volume de vendas seja elevado, existem oportunidades claras de otimização em logística, retenção de clientes e aumento de ticket médio.
+
+A aplicação das recomendações sugeridas pode contribuir para:
+• Redução de atrasos logísticos  
+• Aumento da recorrência de clientes  
+• Crescimento sustentável do faturamento  
+• Maior eficiência operacional 
 
 ## 🚀 Conclusão
 Este projeto demonstra uma abordagem completa de **Data Analytics**, integrando Python, SQL e Power BI para transformar dados brutos em **insights acionáveis**, com foco em problemas reais de negócio como logística, receita e comportamento do cliente.
