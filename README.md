@@ -50,7 +50,7 @@ O dataset reúne informações de aproximadamente **100 mil pedidos realizados e
 ## 📊 Dashboard Interativo
 O dashboard apresenta indicadores-chave de performance (KPIs) e permite análise dinâmica por período, estado e categoria.
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard_updated.png)
 
 ---
 
